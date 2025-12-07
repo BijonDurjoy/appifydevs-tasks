@@ -29,5 +29,30 @@ I documented all the test cases and Bug report in a spreadsheet and and added th
 **Test Plan**
 - [Test Plan](https://docs.google.com/document/d/1WhBZQMXR0FsLybZHXF6C-vi8yeufCyqX/edit?usp=sharing&ouid=108334992119789046599&rtpof=true&sd=true)
 
+**Test case and Bug report**
+
+
+
+## Execution Summary
+All test case were executed on real devices. I tracked Pass/Fail results, app version and environments. I have done almost 25 testcase for every scope and also provide the precondition, steps to execute, Expected and Actual result. 
+A fiew issues were identified during functional, UI, Security and Accessibility testing. 
+
+**Bug Reports**
+I reported a minimum of 3 valid bugs for each scope of this assignments. Each reports includes:
+* Steps to reproduce
+* Expected and Actual results.
+* Severity and Priority.
+* Environment Details
+* Screenshot or Recording 
+
+## Overall Findings:
+Both apps and websites work, but there are several issues related to UI, navigation, and validation. These defects may affect user experience and should be fixed before release. 
+
+**Recommendations**
+* Fix the reported bugs and retest.
+* Input input validation and security controls.
+* Run an additional accessinility review
+* Recheck Ui consistency accross devices
+* Perform another short regression test after fixes.
 
 
