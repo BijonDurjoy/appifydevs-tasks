@@ -54,7 +54,8 @@ Both apps and websites work, but there are several issues related to UI, navigat
 
 **Recommendations**
 * Fix the reported bugs and retest.
-* Input input validation and security controls.
+* Add input validation and security controls.
+* Add Login and Sign up with email and password feature 
 * Run an additional accessinility review
 * Recheck Ui consistency accross devices
 * Perform another short regression test after fixes.
