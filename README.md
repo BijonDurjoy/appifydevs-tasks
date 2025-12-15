@@ -1,4 +1,4 @@
-# QA Summary Report of the Assignment
+# QA Summary Report of the Assignment (All the links are provided here)
 
 This assignment covers testing of two android apps and two websites. I planned and executed a full test cycle that included functional, UI?UX, Security, Accessibility testing.
 
